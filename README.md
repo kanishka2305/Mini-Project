@@ -54,12 +54,19 @@ df2
 ```
 # Output:
 ![image](https://github.com/kanishka2305/Mini-Project/assets/113497357/f08e8f40-cfd5-4182-977d-5de133caf5fa)
+
 ![image](https://github.com/kanishka2305/Mini-Project/assets/113497357/4b8abc06-fb01-4fae-9dac-4be1b7bc1019)
+
 ![image](https://github.com/kanishka2305/Mini-Project/assets/113497357/a682701a-eb0a-4078-b164-b3d40a802870)
+
 ![image](https://github.com/kanishka2305/Mini-Project/assets/113497357/22185243-e77f-4aba-8e1b-d02752943fba)
+
 ![image](https://github.com/kanishka2305/Mini-Project/assets/113497357/f11940e7-199f-4974-8001-66a7cc02d62d)
+
 ![image](https://github.com/kanishka2305/Mini-Project/assets/113497357/66d61400-dd22-402a-94d5-bdd1dcf7383f)
+
 ![image](https://github.com/kanishka2305/Mini-Project/assets/113497357/56413a24-508b-419c-9837-e40b8f9afe07)
+
 ![image](https://github.com/kanishka2305/Mini-Project/assets/113497357/93527682-e826-4450-b4d1-20718333d1d8)
 # Result:
 Thus above program is required for weight-height was analyzed successfully
