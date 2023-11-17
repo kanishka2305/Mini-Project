@@ -3,11 +3,11 @@
 # Aim:
 To implement data science techniques in weight-height dataset
 # Methodologies:
- 1.Importing Libraries
- 2.Loading Data
- 3.Performing Simple EDA
- 4.Feature Engineering & Selection
- 5.Model Visulization
+#### 1.Importing Libraries
+ #### 2.Loading Data
+ #### 3.Performing Simple EDA
+ #### 4.Feature Engineering & Selection
+ #### 5.Model Visulization
 # Code:
 ```py
 Developed by:Kanishka.V.S
