@@ -8,10 +8,11 @@ To implement data science techniques in weight-height dataset
 3.Performing Simple EDA
 4.Feature Engineering & Selection
 5.Model Visulization
-# COde:
+# Code:
 ```py
 Developed by:Kanishka.V.S
 REgister no:212222230061
+```
 ```py
 import numpy as np
 import pandas as pd
